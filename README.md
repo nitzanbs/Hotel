@@ -30,4 +30,4 @@ This website was initially created independently before formal studies, utilizin
 
 ---
 
-[Visit the website](https://example.com)
+[Visit the website](https://nitzanbs.github.io/Hotel/)
